@@ -1,0 +1,8 @@
+---
+layout: post
+company: "Growth Acceleration Partners"
+title:  "Quality Assurance Lead"
+date:   2020-01-02 19:52:13 +0100
+categories: lead manual html
+---
+QA Lead to recreate our homepage website.
