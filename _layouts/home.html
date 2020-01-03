@@ -1,17 +1,12 @@
 ---
 layout: default
-list_title: Jobs
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
   {{ content }}
-
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Jobs" }}</h2>
+    <hr><br>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -31,10 +26,10 @@ list_title: Jobs
       </li>
       {%- endfor -%}
     </ul>
-
+    <br>
     <p class="feed-subscribe">
       <a href="{{ 'feed.xml' | relative_url }}">
-        <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>Subscribe</span>
+        <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>Subscribe to the job feed</span>
       </a>
     </p>
   {%- endif -%}
