@@ -8,7 +8,7 @@ title:              Senior QA Engineer
 level:              Senior
 special:            Great Compensation Package
 location:           San José, Tres Ríos, Costa Rica
-categories:         lead manual html engineer
+categories:         jobs
 ---
 Konrad Group is a next generation digital consultancy. We are dedicated to solving complex business problems for our global clients with creative and forward-thinking solutions. Our employees enjoy a culture built on innovation and a commitment to creating best-in-class digital products in use by hundreds of millions of consumers around the world. We hire exceptionally smart, analytical, and hard working people who are lifelong learners.
 
