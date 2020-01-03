@@ -4,4 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is a job portal for QA people who are looking for a next challenge. Please follow us and we will keep you posted with the latest job offerings.
+We are a **Software Testing Company** aiming to close the gap between employers and employees. 
+
+## Our mission:
+To help QA Engineers find their next professional challenge.
+
+## Our vision:
+To become a Software Testing Industry refence for both professionals and companies.
+
+<br><a href="mailto:pc@coffeestain.io">Get in touch</a>

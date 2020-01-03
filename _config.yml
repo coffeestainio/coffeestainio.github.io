@@ -21,8 +21,8 @@
 title: coffeestain.io
 email: pc@coffeestain.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Quality Assurance and Testing jobs simplified, curated and updated. 
-  We are engineers, we understand the market. We have experience we understand 
+  Software Quality Assurance jobs simplified, curated and updated. 
+  We are engineers, we understand the market. We have experience, we understand 
   your company needs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://coffeestain.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,8 +34,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - hireafreelancer.markdown
-  - employers.markdown
+  - freelancer.markdown
+  - companies.markdown
   - about.markdown
 
 google_analytics: UA-139143178-5
