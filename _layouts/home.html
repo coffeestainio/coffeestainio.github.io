@@ -14,9 +14,10 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-            Company: <strong>{{ post.company | escape }}</strong>
-        </h3>
+        <p>
+            <strong>{{ post.company | escape }}</strong>
+            <i class="special">{{ post.special | escape }}</i> 
+        </p>
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
