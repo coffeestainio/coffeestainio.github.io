@@ -3,8 +3,8 @@ layout: page
 title: For companies
 permalink: /services/
 ---
-### Stuggling to deliver quality or to increase the overall quality of your SLC process?
-We can help by analizing your current process. Work side by side to identify quality pain points. Provide guidance and expertize so that you can become a quality first company.
+### Struggling to deliver quality or to increase the overall quality of your SLC process?
+We can help by analyzing your current process. Work side by side to identify quality pain points. Provide guidance and expertise so that you can become a quality first company.
 ### Limited budget? Or don't actually need a full time engineer?
 We will connect you with the very best candidates that could fit your company needs in terms of technology, availability and price.
 ### Want to find a full time employee to fill an open position?
