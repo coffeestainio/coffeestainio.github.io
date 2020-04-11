@@ -8,8 +8,8 @@
         <javascript-components></javascript-components>
         <icons></icons>
         <examples></examples>
-        <download-section></download-section>
-        <carousel></carousel>
+        <OurServices></OurServices>
+        <OurClients></OurClients>
     </div>
 </template>
 <script>
@@ -22,7 +22,9 @@ import JavascriptComponents from "./components/JavascriptComponents";
 import Carousel from "./components/Carousel";
 import Icons from "./components/Icons";
 import Examples from "./components/Examples";
-import DownloadSection from "./components/DownloadSection";
+import OurServices from "./components/OurServices";
+import OurClients from "./components/OurClients";
+
 
 export default {
   name: "components",
@@ -30,7 +32,8 @@ export default {
     Hero,
     Icons,
     Examples,
-    DownloadSection
+    OurServices,
+    OurClients
   }
 };
 </script>
