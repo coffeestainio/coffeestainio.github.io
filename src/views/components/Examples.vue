@@ -13,8 +13,8 @@
         <div class="container shape-container py-0 pb-5">
             <div class="row row-grid justify-content-between align-items-center">
                 <div class="col-lg-6">
-                    <h3 class="display-3 text-white">Mindful thinking completed
-                        <span class="text-white">with experience</span>
+                    <h3 class="display-3 text-white">Mindful thinking meets
+                        <span class="text-white">on hands experience</span>
                     </h3>
                     <p class="lead text-white">We focus on what really matters to drive quality.
                         We don't sell a one size fit all solution, but rather we listen, analize
@@ -22,8 +22,8 @@
                         your organization and your products.
                     </p>
                     <div class="btn-wrapper">
-                        <a to="mailto:pc@coffeestain.io" class="btn btn-success align-right">
-                            Contact Us
+                        <a to="mailto:info@coffeestain.io" class="btn btn-success align-right">
+                            Get in Touch With Us
                         </a>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                               header-classes="pb-5 bg-white">
                             <template slot="header">
                                 <div class="text-muted text-center mb-3">
-                                    <small>How you test this form?</small>
+                                    <small>How would you test this form?</small>
                                 </div>
                                 <div class="btn-wrapper text-center">
                                     <base-button type="neutral">

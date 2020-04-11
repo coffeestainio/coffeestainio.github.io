@@ -170,7 +170,7 @@
                         <div class="pl-md-5">
                             <icon name="ni ni-settings" class="mb-5" size="lg" type="warning" shadow rounded></icon>
 
-                            <h3>Our customers</h3>
+                            <h3>Our Customers</h3>
                             <p class="lead">Don't let your uses guess by attaching tooltips and popoves to any element.
                                 Just make sure you enable them first via JavaScript.</p>
                             <p>The kit comes with three pre-built pages to help you get started faster. You can change
