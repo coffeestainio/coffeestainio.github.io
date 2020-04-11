@@ -92,7 +92,7 @@
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="mailto:pc@coffeestain.io" target="_blank"
+                    <a href="mailto:info@coffeestain.io" target="_blank"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-envelope mr-2"></i>

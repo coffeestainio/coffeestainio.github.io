@@ -1,15 +1,10 @@
 <template>
     <div>
         <hero></hero>
-        <basic-elements></basic-elements>
-        <inputs></inputs>
-        <custom-controls></custom-controls>
-        <navigation></navigation>
-        <javascript-components></javascript-components>
-        <icons></icons>
-        <examples></examples>
         <OurServices></OurServices>
         <OurClients></OurClients>
+        <icons></icons>
+        <examples></examples>
     </div>
 </template>
 <script>

@@ -11,7 +11,7 @@
                 </div>
             </div>
             <div class="blur--hover">
-                <a href="mailto:pc@coffeestain.io">
+                <a href="mailto:info@coffeestain.io">
                     <div class="icons-container blur-item mt-5" :class="{'on-screen': showIconsAnimation}">
                         <!-- Center -->
                         <i class="icon ni ni-atom" icon="fa fa-brain"></i>
