@@ -1,3 +1,4 @@
+# run only on master
 cd dist
 git init
 git add .
