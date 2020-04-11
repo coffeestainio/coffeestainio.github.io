@@ -9,7 +9,7 @@
         <icons></icons>
         <examples></examples>
         <OurServices></OurServices>
-        <carousel></carousel>
+        <OurClients></OurClients>
     </div>
 </template>
 <script>
@@ -23,6 +23,8 @@ import Carousel from "./components/Carousel";
 import Icons from "./components/Icons";
 import Examples from "./components/Examples";
 import OurServices from "./components/OurServices";
+import OurClients from "./components/OurClients";
+
 
 export default {
   name: "components",
@@ -30,7 +32,8 @@ export default {
     Hero,
     Icons,
     Examples,
-    OurServices
+    OurServices,
+    OurClients
   }
 };
 </script>
