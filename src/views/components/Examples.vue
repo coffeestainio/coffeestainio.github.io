@@ -16,8 +16,8 @@
                     <h3 class="display-3 text-white">Mindful thinking completed
                         <span class="text-white">with experience</span>
                     </h3>
-                    <p class="lead text-white">We focus on what really matters to drive quality,
-                        we don't sell a one size fit all solution, but rather we listen, analize
+                    <p class="lead text-white">We focus on what really matters to drive quality.
+                        We don't sell a one size fit all solution, but rather we listen, analize
                         and provide multiple solutions so that you can decide what fits better for 
                         your organization and your products.
                     </p>
