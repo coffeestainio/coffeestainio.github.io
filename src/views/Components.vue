@@ -32,8 +32,7 @@ export default {
     Hero,
     Icons,
     Examples,
-    OurServices,
-    OurClients
+    OurServices
   }
 };
 </script>

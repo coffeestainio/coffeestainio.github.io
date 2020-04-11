@@ -7,7 +7,7 @@
                     <div class="container">
                         <div class="row row-grid justify-content-center">
                             <div class="col-lg-12 text-center">
-                                <h3 class="display-3 text-white">Customers
+                                <h3 class="display-3">Customers
                                 </h3>
                                 <p class="lead"> </p>
                                 <div class="container">
@@ -32,3 +32,8 @@
             </div>
         </section>
 </template>
+<script>
+export default {};
+</script>
+<style>
+</style>
