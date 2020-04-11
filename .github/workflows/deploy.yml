@@ -26,3 +26,5 @@ jobs:
     - run: yarn install
     - run: npm run build
     - run: ./deploy.sh
+      env: # Or as an environment variable
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
