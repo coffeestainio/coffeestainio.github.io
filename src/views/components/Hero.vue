@@ -20,7 +20,7 @@
                         <p class="lead text-white mt-4 mb-5">Mindful Software Testing Services and Consultancy.</p>
                         <div class="btn-wrapper">
                             <base-button tag="a"
-                                         href="https://demos.creative-tim.com/vue-argon-design-system/documentation"
+                                         href="https://www.linkedin.com/company/coffeestain-io/about/"
                                          class="mb-3 mb-sm-0"
                                          type="info"
                                          icon="fa fa-linkedin">

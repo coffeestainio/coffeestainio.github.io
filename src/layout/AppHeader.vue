@@ -85,14 +85,14 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="https://linkedin.com/pjcalvov"
+                    <a class="nav-link nav-link-icon" href="https://www.linkedin.com/company/coffeestain-io/"
                        target="_blank" data-toggle="tooltip" title="Star us on Github">
                         <i class="fa fa-linkedin"></i>
                         <span class="nav-link-inner--text d-lg-none">LinkedIn</span>
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a mailto="pc@coffeestain.io" target="_blank"
+                    <a href="mailto:pc@coffeestain.io" target="_blank"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-envelope mr-2"></i>
