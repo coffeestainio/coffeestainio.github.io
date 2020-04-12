@@ -3,7 +3,6 @@
         <hero></hero>
         <OurServices></OurServices>
         <OurClients></OurClients>
-        <icons></icons>
         <examples></examples>
     </div>
 </template>

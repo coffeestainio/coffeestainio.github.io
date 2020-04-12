@@ -13,16 +13,19 @@
         <div class="container shape-container py-0 pb-5">
             <div class="row row-grid justify-content-between align-items-center">
                 <div class="col-lg-6">
-                    <h3 class="display-3 text-white">Mindful thinking meets
-                        <span class="text-white">on hands experience</span>
+                    <h3 class="display-3 text-white">Mindful thinking
+                        <span class="text-white"> meets on hands <b>experience</b></span>
                     </h3>
-                    <p class="lead text-white">We focus on what really matters to drive quality.
-                        We don't sell a one size fit all solution, but rather we listen, analize
-                        and provide multiple solutions so that you can decide what fits better for 
-                        your organization and your products.
+                    <p class="lead text-white">With many years of work in different 
+                        project sizes and different domains we have gained enough experience to drive 
+                        toguether along with our customers to a just perfect for your organization.
+                        <b>Want to know more?</b>
                     </p>
                     <div class="btn-wrapper">
-                        <a to="mailto:info@coffeestain.io" class="btn btn-success align-right">
+                        <a href="https://dev.to/dashboard/organization/1716" class="btn btn-secondary">
+                            Read Our Blog
+                        </a>
+                        <a href="mailto:info@coffeestain.io" class="btn btn-success">
                             Get in Touch With Us
                         </a>
                     </div>
