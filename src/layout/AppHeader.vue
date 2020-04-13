@@ -8,7 +8,7 @@
             <div class="row" slot="content-header" slot-scope="{closeMenu}">
                 <div class="col-6 collapse-brand">
                     <a href="../index.html">
-                        <img src="img/brand/blue.png">
+                        <img src="img/brand/coffeemug.png">
                     </a>
                 </div>
                 <div class="col-6 collapse-close">
@@ -63,14 +63,14 @@
                 </li>
             </ul> -->
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
-                <!-- <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="https://www.facebook.com/creativetim" target="_blank"
+                <li class="nav-item">
+                    <a class="nav-link nav-link-icon" href="https://www.facebook.com/Coffeestainio-109104094097824/" target="_blank"
                        data-toggle="tooltip" title="Like us on Facebook">
                         <i class="fa fa-facebook-square"></i>
                         <span class="nav-link-inner--text d-lg-none">Facebook</span>
                     </a>
                 </li>
-                <li class="nav-item">
+                 <!-- <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="https://www.instagram.com/creativetimofficial"
                        target="_blank" data-toggle="tooltip" title="Follow us on Instagram">
                         <i class="fa fa-instagram"></i>
@@ -78,15 +78,15 @@
                     </a>
                 </li> -->
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="https://twitter.com/pjcalvov" target="_blank"
-                       data-toggle="tooltip" title="Follow us on Twitter">
-                        <i class="fa fa-twitter-square"></i>
+                    <a class="nav-link nav-link-icon" href="https://dev.to/dashboard/organization/1716" target="_blank"
+                       data-toggle="tooltip" title="Read us on dev.to">
+                        <i class="fa fa-book"></i>
                         <span class="nav-link-inner--text d-lg-none">Twitter</span>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="https://www.linkedin.com/company/coffeestain-io/"
-                       target="_blank" data-toggle="tooltip" title="Star us on Github">
+                       target="_blank" data-toggle="tooltip" title="Follow us on LinkedIn">
                         <i class="fa fa-linkedin"></i>
                         <span class="nav-link-inner--text d-lg-none">LinkedIn</span>
                     </a>
