@@ -5,9 +5,17 @@
   .coffeestain-customer-section {
       background: linear-gradient(150deg, #ced4da 15%, #adb5bd 70%, #6c757d 94%);
       padding-top: 3rem;
-    padding-bottom: 3rem;
+      padding-bottom: 3rem;
   }
 
   .coffestain-logo {
     margin-bottom: 1.5rem;
+  }
+
+  .cs-footer-logo {
+      width: 50%;
+  }
+
+  .cs-footer-items {
+    flex-direction: row;
   }
