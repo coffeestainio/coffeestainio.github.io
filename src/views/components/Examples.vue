@@ -30,7 +30,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-5 mb-lg-auto">
+                <div class="col-lg-5 mb-lg-auto d-md-none d-lg-block">
                     <div class="transform-perspective-right">
                         <card class="border-0" type="secondary" shadow
                               body-classes="px-lg-5 py-lg-5"

@@ -4,7 +4,7 @@
                 <div class="container">
                     <div class="row">
                         <div slot="brand" class="col-6 col-lg-4 cs-footer-logo-box">
-                            <img class="card-img-top cs-footer-logo" src="../../src/assets/img/clients/CofeeStein.png" alt="Coffestain logo">
+                            <img class="card-img-top cs-footer-logo" src="img/brand/coffeelogo.png" alt="Coffestain logo">
                         </div>
                         <div slot="brand" class="col-6 col-lg-4 text-center align-items-center cs-footer-followus-items">
                          <h5>Follow Us</h5>
