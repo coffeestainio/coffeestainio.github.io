@@ -1,3 +1,4 @@
+
 .card {
     margin-bottom: 1.5rem;
   }
@@ -5,9 +6,66 @@
   .coffeestain-customer-section {
       background: linear-gradient(150deg, #ced4da 15%, #adb5bd 70%, #6c757d 94%);
       padding-top: 3rem;
-    padding-bottom: 3rem;
+      padding-bottom: 3rem;
   }
 
   .coffestain-logo {
     margin-bottom: 1.5rem;
   }
+
+  .cs-footer-logo {
+      width: 100%;
+
+}
+
+    .cs-footer-followus-items {
+        margin-top: 30px;
+    }
+
+  .cs-footer-items {
+    flex-direction: column;
+  }
+
+  .cs-footer-contactus{
+      margin-top: 30px;
+  }
+
+  .cs-copyright-footer {
+      margin-top: 30px;
+      text-align: center;
+  }
+
+  .cs-footer-items {
+    flex-direction: column;
+    margin-left: 35%;
+    text-align: left;
+}
+
+.cs-contactus-button{
+    margin-left: 30%;
+}
+
+    @media (min-width: 575.98px) { 
+        .cs-footer-logo {
+            width: 50%;
+
+    
+        }
+
+        .cs-footer-followus-items {
+            margin-top: 10px;
+        }
+
+        .cs-footer-items {
+            flex-direction: row;
+            margin-left: 35%;
+        }
+
+        .cs-footer-logo-box {
+            text-align: left;
+        }
+
+        .cs-contactus-button{
+            margin-left: 30%;
+        }
+    }
