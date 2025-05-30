@@ -22,9 +22,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm install yarn
-    - run: yarn install
-    - run: npm run build
+    - run: npm install
+    - run: npm build
     - run: ./deploy.sh
       env: # Or as an environment variable
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
